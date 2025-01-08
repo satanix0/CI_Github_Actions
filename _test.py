@@ -13,7 +13,7 @@ def square(n):
 
 
 def cube(n):
-    return n ** 3
+    return n ** 4
 
 # Function to calculate the fifth power of a number
 
